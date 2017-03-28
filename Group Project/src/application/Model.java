@@ -3,7 +3,8 @@ package application;
 /*Model Class stores all data associated with this media player*/
 public class Model {
 
-	//Class variables
+	//Testing GIT
+	//Class variables	
 	
 	//Constructor
 	public Model() {
