@@ -11,5 +11,4 @@ public class Controller {
 	
 	//Audio Methods of altering data
 	
-	//Video Methods of altering data
 }
