@@ -141,6 +141,7 @@ public class View {
 		ImageView cover = new ImageView();
 		//Image aCover = new Image(null /*Main.class.getResourcAsStream("pic.png")*/);
 		
+		
 		HBox albumnCover = new HBox();
 		albumnCover.getChildren().add(cover);
 				
